@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TidyJay
 - 👀 I’m interested in Playing with python, though it's creeping, but I  loved it👌
 - 🌱 I’m currently learning Python for the Backend
-- 💞️ I’m looking to collaborate on small project, if your are buying me cofee 
+- 💞️ I’m looking to collaborate on small project, if your are buying me coffee 
 - 📫 How to reach me here or twitter @mator2crest or WhatsApp me: +231775361521
 
 <!---
